@@ -21,4 +21,4 @@ the results of ResNet-50 on test set:
   </tr>
 </table>
 
-Link dataset: https://www.kaggle.com/datasets/kmader/parkinsons-drawings
+Link dataset: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data
